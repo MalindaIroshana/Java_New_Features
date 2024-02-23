@@ -1,0 +1,1 @@
+#### Here's an example of how you could use the Java Stream API in a financial system scenario, such as processing a collection of transactions:
