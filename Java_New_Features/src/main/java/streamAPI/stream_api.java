@@ -1,4 +1,4 @@
-package main.java;
+package main.java.streamAPI;
 
 import java.util.Arrays;
 import java.util.List;
